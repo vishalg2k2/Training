@@ -1,0 +1,5 @@
+env/
+firstproject/db.sqlite3
+firstproject/media/
+firstproject/calc/__pycache__/
+firstproject/firstproject/__pycache__/
